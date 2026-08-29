@@ -1,121 +1,78 @@
-<div align="center">
+# Hi there! 👋
 
-![Shin Banner](https://static.wikia.nocookie.net/86-eighty-six/images/f/f6/Shin_2nd_cour.png)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Mobile+Developer+%7C+Flutter+Enthusiast;AI-Powered+Researcher+%26+Productivity+Hacker;Building+Beautiful+Mobile+Apps" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=Shinei+Nouzen+%E2%80%94+Undertaker+%E2%98%A0;Eighty+Six+Processor+%E2%80%A2+Spearhead+Squadron;Aut+Inveniam+Viam+Aut+Faciam;Mobile+Developer+%7C+Flutter+Enthusiast" alt="Typing SVG" /></a>
+## 🚀 About Me
 
-[![adamramadhn](https://img.shields.io/badge/adamramadhn-FF3B3B.svg?style=for-the-badge&logo=github)](https://github.com/adamramadhn)
-![Undertaker](https://img.shields.io/badge/Undertaker-86-E10600?style=for-the-badge)
-![Spearhead](https://img.shields.io/badge/Spearhead-Squadron-0E1117?style=for-the-badge&logo=target&logoColor=white)
+I'm **Rama**, a Mobile Developer specializing in Flutter with a passion for leveraging AI to supercharge research, brainstorming, and productivity. I build scalable mobile applications and explore innovative ways to integrate AI into daily workflows.
 
-*“I’ll take everyone who fought and died alongside me to my final destination.” — Shin Nouzen*
-
-</div>
-
----
-
-### It's Me? :
-
-> **Rama** — Mobile Developer (Flutter) • AI-Powered Researcher • Eighty Six enjoyer ⚙️
-> Spearhead mindset: *Aut Inveniam Viam Aut Faciam* — Find a way or make one.
-
-<table>
-<tr>
-<td>
-
-**Biodata 🎨**
-```yaml
-name: "Rama (adamramadhn)"
-alias: ["Undertaker's Coder", "Reaper"]
-squad: "Spearhead Squadron"
-unit: "XM2 Reginleif — Flutter Edition"
-focus: ["Flutter", "Dart", "AI Workflow"]
-currently_learning: ["Advanced AI Integration", "Productivity Ops"]
-fav_anime: "86 — Eighty Six"
-quote: "Aut Inveniam Viam Aut Faciam"
-```
-
-</td>
-<td align="center" width="280">
-
-<img src="https://static.wikia.nocookie.net/86-eighty-six/images/3/3b/Shin_Full_Body.png/revision/latest?scale-to-width-down/280?cb=20221227232859" width="240" alt="Shin Nouzen" />
-<br/>
-<img src="https://static.wikia.nocookie.net/86-eighty-six/images/d/dc/Undertaker_emblem.png" width="72" alt="Undertaker Emblem" />
-
-</td>
-</tr>
-</table>
-
-Visitor Count  
-![Visitor](https://profile-counter.glitch.me/adamramadhn/count.svg)
-<!-- alt: https://komarev.com/ghpvc/?username=adamramadhn&label=Profile%20views&color=FF3B3B&style=for-the-badge -->
+- 🔭 **Currently working on:** Flutter-based mobile apps with clean architecture
+- 🌱 **Learning:** Advanced AI integration patterns and productivity optimization
+- 💡 **Expertise:** AI-assisted research, brainstorming, and workflow automation
+- 🎯 **Goal:** Building beautiful, performant apps that make a difference
 
 ---
 
-### Spotify Music :
+## 🛠️ Tech Stack
 
-[![Spotify Now Playing](https://now-playing-on-spotify.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
-<!-- Opsional: kalau mau kayak KiyoEditz yang live, deploy fork novatorem/novatorem ke Vercel dan ganti URL di atas. Kalo gak butuh, hapus blok ini -->
-
----
-
-#### I'm currently learning:
-
-- 🔭 Flutter — clean architecture & scalable mobile apps
-- 🤖 AI-assisted research / brainstorming / workflow automation
-- 🎯 Building beautiful, performant apps that make a difference
-
----
-
-### 🛠️ Tech Stack
-
+### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Research-FF3B3B?style=for-the-badge&logo=openai&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### AI & Productivity
+![AI Tools](https://img.shields.io/badge/AI_Research-Advanced-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![Productivity](https://img.shields.io/badge/Productivity_Optimized-10B981?style=for-the-badge&logo=notion&logoColor=white)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
-- 📱 [Aldin Portfolio](https://github.com/adamramadhn/aldin-portfolio) — UI/UX Product Designer Portfolio
-- 🚀 [Flutter Starter Template](https://github.com/adamramadhn/flutter_starter) — Production-ready Flutter clean architecture
-- 🎬 [Mini Project Flutter](https://github.com/adamramadhn/MiniProjectFlutter) — Movie Catalog App
-- 🍽️ [Restaurant App](https://github.com/adamramadhn/Restaurant_App) — Restaurant Finder App
+### 📱 [Aldin Portfolio](https://github.com/adamramadhn/aldin-portfolio)
+**UI/UX Product Designer Portfolio** - A beautiful, responsive portfolio website built with modern CSS showcasing design work and projects.
+
+### 🚀 [Flutter Starter Template](https://github.com/adamramadhn/flutter_starter)
+**Production-ready Flutter App Template** - Clean architecture, multi-language support, theme customization, and integrated with essential libraries for mobile app development.
+
+### 🎬 [Mini Project Flutter](https://github.com/adamramadhn/MiniProjectFlutter)
+**Movie Catalog App** - Flutter application for browsing and discovering movies with a clean, intuitive interface.
+
+### 🍽️ [Restaurant App](https://github.com/adamramadhan/Restaurant_App)
+**Restaurant Finder App** - Flutter app helping users discover and explore restaurants with rich features.
 
 ---
 
-### `Status 🐾`
+## 📊 GitHub Stats
 
 <div align="center">
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adamramadhn&theme=tokyonight&hide_border=false&border=FF3B3B&background=0E1117&stroke=FF3B3B&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B)](https://github.com/adamramadhn)
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=adamramadhn&bg_color=0E1117,1a1a2e,16213e&title_color=FF3B3B&text_color=ffffff&icon_color=FF3B3B&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/adamramadhn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamramadhn&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0E1117&title_color=FF3B3B&text_color=ffffff&langs_count=8)](https://github.com/adamramadhn)
-
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamramadhn&theme=monokai)](https://github.com/adamramadhn)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=adamramadhn&theme=radical&margin-w=20&no-bg=true&no-frame=false)](https://github.com/adamramadhn)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=adamramadhn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamramadhn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamramadhn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adam-r-51594a207" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:adam@theltsoul.my.id">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
   <a href="https://theltsoul.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
+  
   <a href="https://github.com/adamramadhn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -123,10 +80,22 @@ Visitor Count
 
 ---
 
+## 🤝 Let's Collaborate!
+
+I'm always open to:
+- **Collaborating** on Flutter and AI-powered projects
+- **Discussing** AI research and productivity optimization strategies
+- **Contributing** to open-source projects
+- **Building** innovative mobile solutions
+
+Feel free to reach out via email or connect with me on LinkedIn!
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adamramadhn&style=for-the-badge&color=FF3B3B" alt="Profile Views"/>
-  <br/>
-  <sub>⭐ Star some of my repositories if you find them helpful! — Spearhead Squadron ⭐</sub>
+  <img src="https://komarev.com/ghpvc/?username=adamramadhn&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
+  
+  <sub>⭐ Star some of my repositories if you find them helpful! ⭐</sub>
 </div>
 
 ---
