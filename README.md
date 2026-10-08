@@ -1,48 +1,75 @@
-# Hi there! 👋
+# Hi, I'm Rama 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Mobile+Developer+%7C+Flutter+Enthusiast;AI-Powered+Researcher+%26+Productivity+Hacker;Building+Beautiful+Mobile+Apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=680&lines=Fullstack+Software+Engineer;AI-augmented+%E2%80%94+I+build+with+agents,+not+around+them;Next.js+%C2%B7+TypeScript+%C2%B7+Flutter+%C2%B7+Go+%C2%B7+Python;Web+%2B+Mobile+%2B+Backend+%2B+AI+Agents;Self-hosting+dashboards,+VoIP,+OTA+%26+more" alt="Typing SVG" /></a>
 
-## 🚀 About Me
+## 🧭 About Me
 
-I'm **Rama**, a Mobile Developer specializing in Flutter with a passion for leveraging AI to supercharge research, brainstorming, and productivity. I build scalable mobile applications and explore innovative ways to integrate AI into daily workflows.
+I'm **Rama**, a **fullstack software engineer** based in Jakarta. I ship products end-to-end — web platforms, mobile apps, backend services, and the self-hosted infrastructure they run on.
 
-- 🔭 **Currently working on:** Flutter-based mobile apps with clean architecture
-- 🌱 **Learning:** Advanced AI integration patterns and productivity optimization
-- 💡 **Expertise:** AI-assisted research, brainstorming, and workflow automation
-- 🎯 **Goal:** Building beautiful, performant apps that make a difference
+AI is a core part of how I work: I plan, code, review, and automate with agents, so I spend my time on architecture and product decisions instead of boilerplate.
+
+- 🔭 **Currently building:** AI agent tooling, WMS platforms, self-hosted services
+- 🤖 **AI-augmented workflow:** agent-driven development, LLM integrations, n8n automation
+- 🏗️ **Fullstack range:** Next.js web apps → Flutter mobile apps → Go/Python backends → Rust tooling
+- 🖥️ **Infra:** Docker, Nginx, PostgreSQL, Redis, Linux VPS — if it can be self-hosted, it will be
+- 🎯 **How I ship:** AI handles the repetitive 80%, I own the architecture and the last 20%
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 🌐 Web / Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-### AI & Productivity
-![AI Tools](https://img.shields.io/badge/AI_Research-Advanced-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
-![Productivity](https://img.shields.io/badge/Productivity_Optimized-10B981?style=for-the-badge&logo=notion&logoColor=white)
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ⚙️ Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🤖 AI & Automation
+![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-412991?style=for-the-badge&logo=python&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-EA4B71?style=for-the-badge&logo=zapier&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+
+### 🐳 DevOps & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 📱 [Aldin Portfolio](https://github.com/adamramadhn/aldin-portfolio)
-**UI/UX Product Designer Portfolio** - A beautiful, responsive portfolio website built with modern CSS showcasing design work and projects.
+### Open source & public
 
-### 🚀 [Flutter Starter Template](https://github.com/adamramadhn/flutter_starter)
-**Production-ready Flutter App Template** - Clean architecture, multi-language support, theme customization, and integrated with essential libraries for mobile app development.
+- **[flutter_starter](https://github.com/adamramadhn/flutter_starter)** — production-ready Flutter starter: clean architecture, theming, i18n, batteries included.
+- **[telegram-drive-clean](https://github.com/adamramadhn/telegram-drive-clean)** — turn your Telegram account into unlimited cloud storage.
+- **[telegram-drive-backend](https://github.com/adamramadhn/telegram-drive-backend)** — API backend for Telegram Drive, built on Pyrogram.
+- **[theltsoul.my.id](https://github.com/adamramadhn/theltsoul.my.id)** — my personal portfolio site.
 
-### 🎬 [Mini Project Flutter](https://github.com/adamramadhn/MiniProjectFlutter)
-**Movie Catalog App** - Flutter application for browsing and discovering movies with a clean, intuitive interface.
+### Selected product & client work *(private)*
 
-### 🍽️ [Restaurant App](https://github.com/adamramadhan/Restaurant_App)
-**Restaurant Finder App** - Flutter app helping users discover and explore restaurants with rich features.
+- **ShiftTwin** — 3D warehouse visualization for a WMS platform (React Three Fiber)
+- **SolA WMS** — enterprise back-office, kiosk & vendor portal (Next.js + PostgreSQL)
+- **deva** — turns an idea into an agent-ready PRD and execution plan
+- **assistant** — web + voice assistant for Hermes Agent
+- **flutter-ota** — self-hosted Android OTA patch server with admin dashboard
+- **VoIP platform** — self-hosted SIP/WebRTC calling (Go)
 
 ---
 
@@ -58,10 +85,21 @@ I'm **Rama**, a Mobile Developer specializing in Flutter with a passion for leve
 
 ---
 
+## 🤝 Open To
+
+- Fullstack web & mobile product builds
+- AI agent / LLM integrations and workflow automation
+- Self-hosting & infrastructure setups
+- Open source collaboration
+
+Reach me via email or LinkedIn below!
+
+---
+
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/adam-r-51594a207" target="_blank">
+  <a href="https://www.linkedin.com/in/adam-ramadhan-51594a207" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
@@ -70,25 +108,13 @@ I'm **Rama**, a Mobile Developer specializing in Flutter with a passion for leve
   </a>
   
   <a href="https://theltsoul.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
   
   <a href="https://github.com/adamramadhn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm always open to:
-- **Collaborating** on Flutter and AI-powered projects
-- **Discussing** AI research and productivity optimization strategies
-- **Contributing** to open-source projects
-- **Building** innovative mobile solutions
-
-Feel free to reach out via email or connect with me on LinkedIn!
 
 ---
 
