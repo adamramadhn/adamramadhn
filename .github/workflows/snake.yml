@@ -28,4 +28,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Generate snake 🐍"
-          branch: main
+          branch: output
+          create_branch: true
